@@ -113,7 +113,7 @@ y quede con fondo blanco en los laterales*/
 
 /*Showcase*/
 #showcase {
-  background: url(/img/bg-1.jpg) no-repeat center center/cover;
+  background: url(../img/bg-1.jpg) no-repeat center center/cover;
   height: 600px;
 }
 #showcase .showcase-content {
